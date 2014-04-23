@@ -24,7 +24,7 @@ a, a:visited {
 }
 
 a:hover {
-	color: #77ccee;
+	color: #0099FF;
 	text-decoration: none;
 }
 
@@ -60,7 +60,7 @@ a:hover {
 	list-style: none;
 	float:left;
 	margin-left:0;
-	border-right: 1px solid #c0c0c0;
+	border-right: 1px dashed #c0c0c0;
 	}
 	
 #menu li {
